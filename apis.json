@@ -1,0 +1,52 @@
+{
+    "name": "Hatebase",
+    "description": "World's largest and most authoritative structured repository of hate speech",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1869-hatebase.jpg",
+    "tags": [
+        "api provider",
+        "content",
+        "data",
+        "esignature",
+        "hate speech",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/hatebase\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Hatebase",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1869-hatebase.jpg",
+            "humanURL": "http:\/\/www.hatebase.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/hatebase-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.hatebase.org\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.hatebase.org\/connect_api"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/hatebase_org"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.hatebase.org"
+        }
+    ]
+}
